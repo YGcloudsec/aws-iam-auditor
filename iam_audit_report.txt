@@ -1,0 +1,5 @@
+WARNING: Policy 'TestPolicy' has unrestricted resource access!
+WARNING: User 'BondJ' has no MFA enabled!
+WARNING: User 'LaneL' has no MFA enabled!
+WARNING: User 'TheDefault' has no MFA enabled!
+WARNING: User 'TheDefault2' has no MFA enabled!
